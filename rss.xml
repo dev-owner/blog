@@ -24,6 +24,12 @@
             <category>msk</category>
         </item>
         <item>
+            <title><![CDATA[docusaurus-seo]]></title>
+            <link>https://dev-owner.github.io/blog/2022/11/20/docusaurus-seo</link>
+            <guid>/2022/11/20/docusaurus-seo</guid>
+            <pubDate>Sun, 20 Nov 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[실리콘밸리에서 날아온 데이터 엔지니어링 컨퍼런스]]></title>
             <link>https://dev-owner.github.io/blog/review-programmers-data-engineering-conference</link>
             <guid>review-programmers-data-engineering-conference</guid>

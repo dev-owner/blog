@@ -27,6 +27,12 @@
         <category label="msk" term="msk"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[docusaurus-seo]]></title>
+        <id>/2022/11/20/docusaurus-seo</id>
+        <link href="https://dev-owner.github.io/blog/2022/11/20/docusaurus-seo"/>
+        <updated>2022-11-20T00:00:00.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[실리콘밸리에서 날아온 데이터 엔지니어링 컨퍼런스]]></title>
         <id>review-programmers-data-engineering-conference</id>
         <link href="https://dev-owner.github.io/blog/review-programmers-data-engineering-conference"/>
