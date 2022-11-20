@@ -1,6 +1,6 @@
 ---
 slug: aws-eks-on-kafka-vs-msk
-title: [AWS EKS] EKS on Kafka vs MSK
+title: Amazon EKS on Kafka vs MSK
 description: aws eks on kafka vs msk
 authors: dev-owner
 keywords: [AWS, EKS, K8S, kubernetes, docker, kafka, msk]
