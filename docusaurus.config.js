@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'dev-owner', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
-
+  trailingSlash:false,
   i18n: {
     defaultLocale: 'ko',
     locales: ['ko'],
@@ -41,15 +41,15 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Dev-owner\'s blog',
+        title: 'Dev-owner의 사는 이야기',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/new_logo.png',
         },
         items: [
           {to: '/', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/dev-owner',
             label: 'GitHub',
             position: 'right',
           },
@@ -59,24 +59,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
+            title: 'Contacts',
             items: [
               {
                 label: 'Blog',
@@ -84,17 +67,25 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/dev-owner',
+              },
+              {
+                  label: 'LinkedIn',
+                  href: 'https://www.linkedin.com/in/jaewoo-sung-588a40114/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} dev-owner Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+          {property: 'google-site-verification', content: '3fZBl0qGT1FPNNPKuW8K4zu4I475C4YolT11VHusyTU'},
+          {property: 'naver-site-verification', content: 'c8ad085623ce80efef1d7f4ec91c62354442c9c2'}
+      ]
     }),
 };
 
