@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'dev-owner', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
+  projectName: 'dev-owner.github.io', // Usually your repo name.
   trailingSlash:false,
   i18n: {
     defaultLocale: 'ko',
