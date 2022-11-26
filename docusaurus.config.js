@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'dev-owner', // Usually your GitHub org/user name.
   projectName: 'dev-owner.github.io', // Usually your repo name.
+  deploymentBranch: 'master',
   trailingSlash:false,
   i18n: {
     defaultLocale: 'ko',
