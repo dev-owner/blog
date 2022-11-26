@@ -84,7 +84,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       metadata: [
-          {property: 'google-site-verification', content: '3fZBl0qGT1FPNNPKuW8K4zu4I475C4YolT11VHusyTU'},
+          {property: 'google-site-verification', content: '9eztlNlzKYcmLIULSO4k5aCEy9wUc8twBDRJ8m3PwRE'},
           {property: 'naver-site-verification', content: 'c8ad085623ce80efef1d7f4ec91c62354442c9c2'}
       ]
     }),
