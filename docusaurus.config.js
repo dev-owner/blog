@@ -9,7 +9,7 @@ const config = {
   title: 'dev-owner\'s blog',
   tagline: 'Data Engineer, Cloud Engineer',
   url: 'https://dev-owner.github.io',
-  baseUrl: '/blog/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
