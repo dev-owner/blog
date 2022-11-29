@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[9506],{5475:a=>{a.exports=JSON.parse('{"label":"mwaa","permalink":"/tags/mwaa","allTagsPath":"/tags","count":1}')}}]);
