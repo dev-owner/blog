@@ -42,6 +42,5 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 
 
 #TODO
-1. robot.txt
-2. google, naver meta
-3. sitemap 추가
+1. cdn 사용
+2. github action 배포자동화
